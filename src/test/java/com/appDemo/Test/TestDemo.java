@@ -22,4 +22,10 @@ public class TestDemo {
 		System.out.println("This is Test Case - 3");
 	}
 
+	@Test
+	public void TestCase4() {
+
+		System.out.println("This is Test Case - 4");
+	}
+
 }
